@@ -5,9 +5,9 @@
 I'm a passionate developer who loves coding and contributing to open-source projects.
 
 ## 🚀 Skills
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Languages:** Python, JavaScript, Java
+- **Frameworks/Libraries:** React, Node.js, 
+- **Tools:** Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🌱 Currently Learning
