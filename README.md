@@ -8,7 +8,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 - **Languages:** Python, JavaScript, Java
 - **Frameworks/Libraries:** React, Node.js, 
 - **Tools:** Git
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL
 
 ## 🌱 Currently Learning
 - Machine Learning and AI
@@ -17,10 +17,9 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 ## 💼 Professional Experience
 - **Software Engineer at XYZ Corp**
   - Developed and maintained web applications using React and Node.js
-  - Implemented CI/CD pipelines using Jenkins and Docker
 
 ## 📫 How to reach me
-- **Email:** sudip1415@example.com
+- **Email:** sudip07770@gmail.com
 - **LinkedIn:** www.linkedin.com/in/sudip-nagane
 - **Twitter:** [@sudip1415](https://twitter.com/sudip1415)
 
