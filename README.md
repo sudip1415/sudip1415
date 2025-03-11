@@ -21,7 +21,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 
 ## 📫 How to reach me
 - **Email:** sudip1415@example.com
-- **LinkedIn:** [Sudip's LinkedIn](https://linkedin.com/in/sudip1415)
+- **LinkedIn:** www.linkedin.com/in/sudip-nagane
 - **Twitter:** [@sudip1415](https://twitter.com/sudip1415)
 
 ## ⚡ Fun Facts
