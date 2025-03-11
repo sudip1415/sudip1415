@@ -6,7 +6,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, Java
-- **Frameworks/Libraries:** React, Node.js, 
+- **Frameworks/Libraries:** React, Node.js, Tailwind css
 - **Tools:** Git
 - **Databases:** MySQL
 
