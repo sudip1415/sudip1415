@@ -14,10 +14,6 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 - Machine Learning and AI
 - Cloud Computing (AWS, Azure)
 
-## 💼 Professional Experience
-- **Software Engineer at XYZ Corp**
-  - Developed and maintained web applications using React and Node.js
-
 ## 📫 How to reach me
 - **Email:** sudip07770@gmail.com
 - **LinkedIn:** www.linkedin.com/in/sudip-nagane
