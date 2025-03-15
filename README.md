@@ -13,6 +13,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 ## 🌱 Currently Learning
 - Machine Learning and AI
 - Cloud Computing (AWS, Azure)
+- Cyber security
 
 ## 📫 How to reach me
 - **Email:** sudip07770@gmail.com
